@@ -276,6 +276,8 @@ class SafariBooks:
                   "</metadata>\n" \
                   "<manifest>\n" \
                   "<item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\" />\n" \
+                  "<item id=\"cover\" href=\"{11}\"    media-type=\"application/xhtml+xml\" />\n" \
+                  "<item id=\"cover-image\" href=\"{8}\" media-type=\"image/jpeg\" />\n" \
                   "{9}\n" \
                   "</manifest>\n" \
                   "<spine toc=\"ncx\">\n{10}</spine>\n" \
